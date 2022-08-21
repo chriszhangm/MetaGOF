@@ -27,7 +27,7 @@ MetaGOF_code: A main function to access our method, namely improved Pivotal quan
 - eye_hand.data.rda: Cleaned data from dat.bourassa1996.rda. 
 - t2d.data.rda: A meta-analysis of 20 independent studies to investigate the association between Type 2 diabetes mellitus and gestational diabetes conducted by Bellamy et al. (2009).
 
-### How to use our method?
+### How to use?
 
 - Step 1: Download all files needed (at least stan files and the main function).
 - Step 2: Install rstan, mvtnorm packages.
