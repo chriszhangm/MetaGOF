@@ -33,3 +33,12 @@ MetaGOF_code: A main function to access our method, namely improved Pivotal quan
 - Step 2: Install rstan, mvtnorm packages.
 - Step 3: Open MetaGOF_code and run, where we recommend to use "IPQ" method with IND prior.
 
+## References
+
+- Johnson, V. E. (2007a). Bayesian model assessment using pivotal quantities. Bayesian Analysis, 2 (4).
+- Yuan, Y., & Johnson, V. E. (2011). Goodness-of-fit diagnostics for bayesian hierarchical models. Biometrics, 68 (1), 156–164.
+- Chen, Z., Zhang, G., & Li, J. (2015). Goodness-of-fit test for meta-analysis. Scientific Reports, 5 (1).
+- Wang, C.-C., & Lee, W.-C. (2019a). Evaluation of the normality assumption in meta-analyses. American Journal of Epidemiology, 189 (3), 235–242.
+- Bourassa, D. (1996). Handedness and eye-dominance: A meta-analysis of their relationship. Laterality, 1 (1), 5–34.
+- Bellamy, L., Casas, J.-P., Hingorani, A. D., & Williams, D. (2009). Type 2 diabetes mellitus after gestational diabetes: A systematic review and meta-analysis. The Lancet, 373 (9677), 1773–1779.
+- Liu, Y., & Xie, J. (2019). Cauchy combination test: A powerful test with analytic p-value calculation under arbitrary dependency structures. Journal of the American Statistical Association, 115 (529), 393–402.
