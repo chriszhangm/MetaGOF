@@ -60,7 +60,7 @@ data {
     //thetaraw: initial guess from the Simple Average method.
     mu[1] ~ uniform(xcraw-5,xcraw+5);
     mu[2] ~ uniform(xcraw+thetaraw-5,xcraw+thetaraw+5);
-    tau ~ gamma(.01,.01);
+    tau ~ inv_gamma(.01,.01);
     rho ~ uniform(-1,1);
   }
   generated quantities {
